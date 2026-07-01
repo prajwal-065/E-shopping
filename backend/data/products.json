@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "title": "Cap Ebbets Corduroy",
+    "price": "$48.00 CAD",
+    "image": "/img/Cap1.webp",
+    "hoverImage": "/img/Cap1f.webp",
+    "category": "cap",
+    "priceValue": 48
+  },
+  {
+    "id": 2,
+    "title": "Cap Ebbets Corduroy",
+    "price": "$30.00 CAD",
+    "image": "/img/Cap2.webp",
+    "hoverImage": "/img/Cap2f.webp",
+    "category": "cap",
+    "priceValue": 30
+  },
+  {
+    "id": 3,
+    "title": "Cap Wool",
+    "price": "$48.00 CAD",
+    "image": "/img/Cap3.webp",
+    "hoverImage": "/img/Cap3f.webp",
+    "category": "cap",
+    "priceValue": 48
+  },
+  {
+    "id": 4,
+    "title": "Cap Wool",
+    "price": "$48.00 CAD",
+    "image": "/img/Cap4.webp",
+    "hoverImage": "/img/Cap4f.webp",
+    "category": "cap",
+    "priceValue": 48
+  },
+  {
+    "id": 5,
+    "title": "Coffee & Jazz Rap",
+    "price": "$36.00 CAD",
+    "image": "/img/T-shirt1.webp",
+    "hoverImage": "/img/T-shirt1f.webp",
+    "category": "t-shirt",
+    "priceValue": 36
+  },
+  {
+    "id": 6,
+    "title": "Course Work Tee",
+    "price": "$48.00 CAD",
+    "image": "/img/T-shirt2.webp",
+    "hoverImage": "/img/T-shirt2f.webp",
+    "category": "t-shirt",
+    "priceValue": 48
+  },
+  {
+    "id": 7,
+    "title": "Creative Label Tee",
+    "price": "$61.00 CAD",
+    "image": "/img/T-shirt3.webp",
+    "hoverImage": "/img/T-shirt3f.webp",
+    "category": "t-shirt",
+    "priceValue": 61
+  },
+  {
+    "id": 8,
+    "title": "Never Not Working Tee",
+    "price": "$48.00 CAD",
+    "image": "/img/T-shirt4.webp",
+    "hoverImage": "/img/T-shirt4f.webp",
+    "category": "t-shirt",
+    "priceValue": 48
+  },
+  {
+    "id": 9,
+    "title": "Sweater Icon Crewneck",
+    "price": "$48.00 CAD",
+    "image": "/img/Sweater1.webp",
+    "hoverImage": "/img/Sweater1f.webp",
+    "category": "sweater",
+    "priceValue": 48
+  },
+  {
+    "id": 10,
+    "title": "Sweater Icon Crewneck",
+    "price": "$48.00 CAD",
+    "image": "/img/Sweater2.webp",
+    "hoverImage": "/img/Sweater2f.webp",
+    "category": "sweater",
+    "priceValue": 48
+  },
+  {
+    "id": 11,
+    "title": "Sweater Icon Crewneck",
+    "price": "$70.00 CAD",
+    "image": "/img/Sweater3.webp",
+    "hoverImage": "/img/Sweater3f.webp",
+    "category": "sweater",
+    "priceValue": 70
+  },
+  {
+    "id": 12,
+    "title": "Sweater Icon Crewneck",
+    "price": "$70.00 CAD",
+    "image": "/img/Sweater4.webp",
+    "hoverImage": "/img/Sweater4f.webp",
+    "category": "sweater",
+    "priceValue": 70
+  }
+]
