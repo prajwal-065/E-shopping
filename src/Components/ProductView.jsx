@@ -18,7 +18,7 @@ const ProductView = () => {
   const numericPrice = Number(selectedProduct.price.replace(/[^\d.]/g, ""));
 
   return (
-    <div className="content-1">
+    <div className="content-1 wrapper">
       <button className="back-btn" onClick={handleBack}>
         ← Back
       </button>
