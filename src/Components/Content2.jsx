@@ -18,7 +18,9 @@ const Content2 = () => {
   useEffect(() => {
     const loadProducts = async () => {
       try {
-        const response = await fetch("http://localhost:5000/api/products");
+        const response = await fetch(
+          "https://e-shopping-blond.vercel.app/api/products",
+        );
 
         if (!response.ok) {
           throw new Error("Unable to load products from the backend.");
