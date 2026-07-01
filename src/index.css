@@ -6,9 +6,9 @@
     font-family: "Inter",sans-serif;
 }
 .wrapper{
-    width: min(100%, 1180px);
+    max-width: 1200px;
     margin: 0 auto; 
-    padding: 0 12px;
+    padding: 20px;
 }
 .header{
     display: flex;
